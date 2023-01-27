@@ -1,0 +1,11 @@
+[ {
+  "uid" : "ce0504cfe117e030",
+  "name" : "testLoginInMainPage",
+  "time" : {
+    "start" : 1674743369939,
+    "stop" : 1674743376353,
+    "duration" : 6414
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

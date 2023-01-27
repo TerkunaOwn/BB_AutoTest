@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "AutoTest",
+      "children" : [ {
+        "name" : "tests.LoginInFormLogin",
+        "children" : [ {
+          "name" : "testLoginInMainPage",
+          "uid" : "ce0504cfe117e030",
+          "parentUid" : "56dbc8d6e8bffbb145a5778d25a2a9e6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674743369939,
+            "stop" : 1674743376353,
+            "duration" : 6414
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "56dbc8d6e8bffbb145a5778d25a2a9e6"
+      } ],
+      "uid" : "6f20ff58c0066003d8ff1026dc7f285f"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}

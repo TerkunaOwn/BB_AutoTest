@@ -1,0 +1,94 @@
+{
+  "uid" : "ce0504cfe117e030",
+  "name" : "testLoginInMainPage",
+  "fullName" : "tests.LoginInFormLogin.testLoginInMainPage",
+  "historyId" : "cb78346c0b022b9b3900a6e78e82647",
+  "time" : {
+    "start" : 1674743369939,
+    "stop" : 1674743376353,
+    "duration" : 6414
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1674743354204,
+      "stop" : 1674743369681,
+      "duration" : 15477
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1674743376368,
+      "stop" : 1674743377397,
+      "duration" : 1029
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.LoginInFormLogin"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.LoginInFormLogin"
+  }, {
+    "name" : "testMethod",
+    "value" : "testLoginInMainPage"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "AutoTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.LoginInFormLogin"
+  }, {
+    "name" : "host",
+    "value" : "test-comp23"
+  }, {
+    "name" : "thread",
+    "value" : "16752@test-comp23.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ce0504cfe117e030.json",
+  "parameterValues" : [ ]
+}

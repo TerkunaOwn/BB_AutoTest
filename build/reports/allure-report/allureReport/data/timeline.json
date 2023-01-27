@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "test-comp23",
+    "children" : [ {
+      "name" : "16752@test-comp23.main(1)",
+      "children" : [ {
+        "name" : "testLoginInMainPage",
+        "uid" : "ce0504cfe117e030",
+        "parentUid" : "f8e9f0997a5b4813a0d1637c651f50ee",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674743369939,
+          "stop" : 1674743376353,
+          "duration" : 6414
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f8e9f0997a5b4813a0d1637c651f50ee"
+    } ],
+    "uid" : "537237774ad0a9bf0f551fa8a3c063b6"
+  } ]
+}
